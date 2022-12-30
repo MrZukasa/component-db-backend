@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 
 out/
+
+# Node Modules
+/node_modules
