@@ -1,1 +1,2 @@
-Backend is available [here](https://dashboard.heroku.com/apps/components-db-backend/deploy/heroku-git)
+30/12/2022
+Due to the Heroku free policies, the beckend is offline at the moment.
